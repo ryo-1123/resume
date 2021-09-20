@@ -35,7 +35,7 @@
 ### インフラ
 - AWS
   - API Gateway, Lambda
-  - EC2, Elastic Beanstalk
+  - EC2, Elastic Beanstalk, Auto Scaling
   - RDS, DynamoDB
   - Cloudfront, S3
   - SQS

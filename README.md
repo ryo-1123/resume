@@ -26,13 +26,13 @@
   - react
 
 #### バックエンド
-- python
-  - python3
+- Python
+  - Python3
   - Django
 - PHP
   - Laravel
 
-#### インフラ
+### インフラ
 - AWS
   - API Gateway, Lambda
   - EC2, Elastic Beanstalk
@@ -43,7 +43,7 @@
   - Cognito
   - Amplify
 
-#### ツール/サービス
+### ツール/サービス
 - Serverless Framework
 - Cloudformation
 - Github Actions
@@ -58,5 +58,29 @@
 |2021/09|AWS Developer Associate|
 
 ## 職務経歴
+### 2020/04 - 現在 : ハンズラボ株式会社 
+#### 2021/01 - 現在 : 社内画像共有SaaSのバージョンアップ
+  - 小売や飲食の店舗と本部などの遠隔の拠点において画像を共有するサービス
+    - https://post-for.com
+  - Serverless Framework（AWS）, Lambda(Python)によるマイクロサービスアーキテクチャ
+  - 機能の改修
+    - Lambdaのリファクタリング
+  - ローカルテスト環境の構築
+    - Pytestの導入
+  - CI/CD環境の再構築
+    - Codebuild, CodePipline
+
+#### 2020/06 - 現在 : IoT開発受託案件
+役割：　バックエンド、サーバーレス開発（メンバー
+チーム: 5人　（運用・保守フェーズでは3人
+ - 要件定義フェーズから参加
+    - IoTによるクラウド化
+      - AWSとSoracom
+    - 主にサーバレス・バックエンドを担当
+      - Pythonを使用したLambdaの開発とserverless framework, Cloudformationを使用したインフラ環境の構築
+      - Djangoによるバックエンド開発
+    - 運用・保守フェーズではボジション関係なく対応
+      - フロントエンド（Vue.js), バックエンド(Django), サーバーレス(Lambda)
+
 ## 課外活動
 ## 得意分野活かせる経験

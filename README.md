@@ -5,8 +5,8 @@
 - [技術スタック](#技術スタック)
 - [資格](#資格)
 - [職務経歴](#職務経歴)
-  - [株式会社エニグモ(2022/04〜)](#202204---　現在--株式会社エニグモ)
-  - [ハンズラボ株式会社(2020/04〜)](#202004---　2022/03--ハンズラボ株式会社)
+  - [株式会社エニグモ(2022/04〜)](#202204---現在--株式会社エニグモ)
+  - [ハンズラボ株式会社(2020/04〜)](#202004---2022/03--ハンズラボ株式会社)
 - [課外活動](#課外活動)
 - [得意分野・活かせる経験](#得意分野活かせる経験)
 
@@ -27,21 +27,17 @@
   - react(プライベートで数ヶ月程度)
 
 #### バックエンド
-- Python
+- Python(実務経験2年)
   - Python3
   - Django
 - PHP
   - Laravel
+
 ### インフラ
-- AWS
-  - API Gateway, Lambda
-  - EC2, Elastic Beanstalk, Auto Scaling
-  - RDS, DynamoDB
-  - Cloudfront, S3
-  - SQS
-  - CloudWatch, WAF
-  - Cognito
-  - Amplify
+- AWS(実務経験3年)
+  - 全般
+- GCP(実務経験1年未満)
+  - GKEのみ
 
 ### ツール/サービス
 - Serverless Framework
@@ -57,8 +53,9 @@
 |---|-----|
 |2021/04|AWS Solution Architect Associate|
 |2021/09|AWS Developer Associate|
+|2022/12|AWS SysOps Administrator Associate|
 
-# 得意分野活かせる経験
+
 # 職務経歴
 ## 2022/04 - 現在 : 株式会社エニグモ
 ## 2020/04 - 2022/03 : ハンズラボ株式会社 

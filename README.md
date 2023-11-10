@@ -1,19 +1,21 @@
 # resume
 
-## RYO NIIDA | 新井田 諒
-〒165-0022 東京都中野区江古田4-17-11 グリーンルーフ08 301号室 | 090-6681-5651 | <adiinoyr.1617@gmail.com> | [GitHub](https://github.com/ryo-1123)
+## 個人データ
+| Key | Value |
+|---|-----|
+|Name|Ryo Niida|
+|Mail|<adiinoyr.1617@gmail.com>|
+|Github|[@ryo-1123](https://github.com/ryo-1123)|
 
 ## **Skills | スキル**
-Languages: Python | JavaScript | TypeScript | Ruby | Go<br>
-Frameworks: Django | React | Next<br>
-Databases: Mysql | PostgreSQL<br>
-Cloud Platforms: AWS | GCP<br>
-IaC: Cloudformation | Ansible | Terraform | Serverless Framework | CDKTF(TypeScript)<br>
-CI/CD: GitHub Actions | Gitlab CI
-
-## **Education | 学歴**
-Bachelor / March 2020<br>
-Network Information Science from Senshu University
+| Key | Value |
+|---|-----|
+|Languages|Python, JavaScript, TypeScript, Ruby, Go|
+|Frameworks|Django, React, Next|
+|Cloud Platforms|AWS, GCP|
+|Databases|Mysql, PostgreSQL|
+|IaC|Cloudformation, Terraform, Ansible, Serverless Framework, CDKTF(TypeScript)|
+|CI/CD|GitHub Actions, Gitlab CI|
 
 ## **Certification | 資格**
 | Acquisition date | Name |
@@ -22,22 +24,25 @@ Network Information Science from Senshu University
 |2021/09|AWS Developer Associate|
 |2022/12|AWS SysOps Administrator Associate|
 
-## **Experience | 職歴**
-### **職歴概要**
+## **Work Experience Summary | 職歴概要**
 - 大学在学中からスタートアップでサービスの立ち上げにエンジニアとして参画。約3年間サービスを立ち上げては潰してを繰り返し、その中でサービスの設計から開発・運用を経験(2018~2021: 約3年間)
 - 大学卒業後、受託開発会社でIoT案件の開発を通したサーバレスの開発や自社サービスの改修作業にバックエンド・インフラとして従事(2020/4~2022/3: 2年)
 - その後、株式会社エニグモにインフラエンジニアとして入社し、AWS移行や新規機能のアーキテクチャ設計・構築、運用の自動化やDX向上に従事(2022/4~現在: 1年8ヶ月)
 - また、2023年4月からフィシルコム株式会社にてインフラエンジニアとして参画し、IaCコードのリファクタリング・インフラリソースの最適化に従事。業務範囲を広げたく、外部APIからデータを取得、整形、保存するバックエンドシステムの開発にも従事(2023/4~現在: 7ヶ月)
 
-#### 実績
+#### 直近の実績
 - AWS移行
 - インフラ運用の自動化
 - DX向上
 - マイクロサービスの新規開発
 - サービス立ち上げ
 - IoT案件
----
 
+#### 得意なこと
+- IaC化(CloudFormation, Terraform)
+- 運用自動化のツール作成(Python, Shell)
+
+## **Work Experience | 職歴**
 ### **Enigmo Inc.**
 Infrastructure Engineer・SRE / April 2022 ~
 #### **1. AWS移行**

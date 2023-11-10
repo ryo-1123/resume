@@ -1,6 +1,6 @@
 # resume
 
-# RYO NIIDA | 新井田 諒
+## RYO NIIDA | 新井田 諒
 〒165-0022 東京都中野区江古田4-17-11 グリーンルーフ08 301号室 | 090-6681-5651 | <adiinoyr.1617@gmail.com> | [GitHub](https://github.com/ryo-1123)
 
 ## **Skills | スキル**
@@ -15,7 +15,7 @@ CI/CD: GitHub Actions | Gitlab CI
 Bachelor / March 2020<br>
 Network Information Science from Senshu University
 
-## Certification
+## **Certification | 資格**
 | Acquisition date | Name |
 |---|-----|
 |2021/04|AWS Solution Architect Associate|

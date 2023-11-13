@@ -43,10 +43,6 @@
   - ローカル開発環境のセットアップと管理の効率化を目指して、ツールの統一化・コンテナ技術と自動化スクリプトを導入
   - Gitlab CIの実行コスト削減
 
-#### 得意なこと
-- IaC化(CloudFormation, Terraform)
-- 運用自動化のツール作成(Python, Shell)
-
 ## **Work Experience | 職歴**
 ### **Enigmo Inc.**
 Infrastructure Engineer・SRE / April 2022 ~

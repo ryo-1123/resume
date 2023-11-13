@@ -46,7 +46,11 @@
 ## **Work Experience | 職歴**
 ### **Enigmo Inc.**
 Infrastructure Engineer・SRE / April 2022 ~
-#### **1. AWS移行**
+
+
+<details>
+<summary>1. AWS移行</summary>
+
 ##### **職務内容**
 AWSへのシステム移行とクラウドインフラの最適化
 
@@ -70,8 +74,11 @@ AWSへのシステム移行とクラウドインフラの最適化
 - クラウドプラットフォーム: AWS(Aurora, EC2, Secret Manager, etc..)
 - インフラ管理: CloudFormation, Terraform
 - その他: Gitlab CI, Datadog
-​
-#### **2. マイクロサービスの新規開発**
+​</details>
+
+<details>
+<summary>2. マイクロサービスの新規開発</summary>
+
 ##### **職務内容**
 
 マイクロサービスアーキテクチャを基盤とした新規プロジェクトにおいて、インフラエンジニアとしてインフラの設計・構築・運用を担当
@@ -96,8 +103,12 @@ PM1名, バックエンドエンジニア2名, インフラエンジニア1名
 - クラウドプラットフォーム: AWS(Lambda, RDS, SQS, etc..)
 - インフラ管理: CloudFormation, SAM 
 - その他: Gitlab CI
+</details>
 
-#### **3. その他運用/保守作業**
+
+<details>
+<summary>3. その他運用/保守作業</summary>
+
 ##### **職務内容**
 インフラの運用自動化・最適化や開発・運用プロセスの最適化、および開発者体験の向上に取り組む
 ##### **主な実績**
@@ -119,11 +130,14 @@ PM1名, バックエンドエンジニア2名, インフラエンジニア1名
 - クラウドプラットフォーム: AWS(Aurora, Lambda, CloudTrail, SecurityHub, etc..), GCP(GKE)
 - IaC: Cloudformation, Terraform, Ansible
 - その他: Gitlab CI
----
+</details>
 
 ### **HANDS LAB Inc.**
 Backend・Infrastructure Engineer / April 2020 ~ March 2022
-#### **1. IoT案件の受託開発**
+
+<details>
+<summary>1. IoT案件の受託開発</summary>
+
 ##### **職務内容**
 - タクシーに搭載されるメーターに対して、モバイル回線を利用してリアルタイムでデータ送受信を行うIoTシステムの開発と構築
   - https://www.hands-lab.com/contents/c12016/
@@ -143,7 +157,11 @@ Backend・Infrastructure Engineer / April 2020 ~ March 2022
 - IaC: Cloudformation, Serverless Framework
 - その他: IoT, CI/CD
 
-#### **2. 自社サービス開発**
+</details>
+
+<details>
+<summary>2. 自社サービス開発</summary>
+
 ##### **職務内容**
 小売や飲食の店舗が利用する画像共有サービスのバックエンドを近代化・改修し、APIドキュメンテーションを整備
 サービスのパフォーマンスと利便性を向上させる目的で実施
@@ -161,12 +179,13 @@ Backend・Infrastructure Engineer / April 2020 ~ March 2022
 - インフラ/クラウド: AWS (CodePipeline, etc..)
 - IaC: Cloudformation, Serverless Framework
 - その他: IoT, CI/CD
----
+</details>
 
 ### **Ficilcom Inc.(副業) April 2023 ~ 現在**
 Infrastructure・Backend Engineer
 
-#### **3. API開発 / インフラリソースの作成・IaCリファクタリング**
+<details>
+<summary>1. API開発 / インフラリソースの作成・IaCリファクタリング</summary>
 
 ##### **職務内容**
 APIデータ連携バックエンド開発・​インフラリソース構築・IaCリファクタリング
@@ -181,10 +200,13 @@ APIデータ連携バックエンド開発・​インフラリソース構築�
 - 開発言語: Go
 - インフラ: AWS(ECS, Aurora Serverless, etc..)
 - IaC: CDKTF(TypeScript)
-
+</details>
 
 ## **Activities | 課外活動**
 ### **Webサービスの新規開発 サントネール株式会社  April 2022 ~ 現在**
+
+<details>
+<summary>新規サービス開発</summary>
 
 ##### **職務内容**
 - 知人と共に立ち上げたサービスの開発リーダーとして、スマホ向けサービスの設計から開発、テスト、リリースまでを一貫して担当（開発継続中
@@ -205,9 +227,13 @@ APIデータ連携バックエンド開発・​インフラリソース構築�
 ##### **使用技術**
 - 開発言語: React, Wordpress, PHP
 - インフラ: AWS(ECS, App Runner, RDS, etc..)
-
+</details>
 
 ### **Webサービスの新規開発  Inc, February 2018 ~  September 2021**
+
+<details>
+<summary>新規サービス開発</summary>
+
 ##### **職務内容**
 - 知人と共に立ち上げたスタートアップで、新たな相談サービスの開発リーダーとして、サービスの設計から開発、テスト、リリースまでを一貫して担当
   - https://prtimes.jp/main/html/rd/p/000000006.000054122.html
@@ -223,11 +249,10 @@ APIデータ連携バックエンド開発・​インフラリソース構築�
 - サービスリリース
   - サービスのリリースを成功させ、初期ユーザーからのフィードバックを基に改善を進めた
 
----
-
 ##### **使用技術**
 - 開発言語: React
 - インフラ: AWS(Amplify)
+</details>
 
 ### **輪読会**
 - 毎週月、水、金曜日にエンジニアの友人と技術本の輪読会を実施。新しいアイデアやトピックに触れることで、幅広い知識を習得し、異なる視点から技術について考える機会も得ることができている

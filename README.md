@@ -229,7 +229,7 @@ APIデータ連携バックエンド開発・​インフラリソース構築�
 - インフラ: AWS(ECS, App Runner, RDS, etc..)
 </details>
 
-### **Webサービスの新規開発  Inc, February 2018 ~  September 2021**
+### **Webサービスの新規開発  Relye Inc, February 2018 ~  September 2021**
 
 <details>
 <summary>新規サービス開発</summary>

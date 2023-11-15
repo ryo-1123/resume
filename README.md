@@ -10,7 +10,7 @@
 ## **Skills | スキル**
 | Key | Value |
 |---|-----|
-|Languages|Python, JavaScript, TypeScript, Ruby, Go|
+|Languages|Python, Shell script, JavaScript, TypeScript, Ruby, Go|
 |Frameworks|Django, React, Next|
 |Cloud Platforms|AWS, GCP|
 |Databases|Mysql, PostgreSQL|

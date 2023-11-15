@@ -70,8 +70,8 @@ AWSへのシステム移行とクラウドインフラの最適化
   - 移行プロセスと最適化についてドキュメント化し、チームへのナレッジ共有と今後のリファレンスを充実させた
 ​
 ##### **使用技術**
-- 開発言語: Ruby
-- クラウドプラットフォーム: AWS(Aurora, EC2, Secret Manager, etc..)
+- 開発言語: Ruby, Shell
+- クラウドプラットフォーム: AWS(Aurora, EC2（AL2）, Secret Manager, etc..)
 - インフラ管理: CloudFormation, Terraform
 - その他: Gitlab CI, Datadog
 ​</details>
@@ -101,7 +101,7 @@ PM1名, バックエンドエンジニア2名, インフラエンジニア1名
 ##### **使用技術**
 - 開発言語: Python
 - クラウドプラットフォーム: AWS(Lambda, RDS, S3, etc..)
-- インフラ管理: CloudFormation, SAM 
+- インフラ管理: CloudFormation, SAM, Datadog
 - その他: Gitlab CI
 </details>
 
@@ -153,7 +153,7 @@ Backend・Infrastructure Engineer / April 2020 ~ March 2022
 
 ##### **使用技術**
 - 開発言語: Python
-- インフラ/クラウド: AWS (Lambda, WAF, etc.)
+- インフラ/クラウド: AWS (Lambda, WAF, DynamoDB, RDS, etc.)
 - IaC: Cloudformation, Serverless Framework
 - その他: IoT, CI/CD
 
@@ -176,7 +176,7 @@ Backend・Infrastructure Engineer / April 2020 ~ March 2022
 
 ##### **使用技術**
 - 開発言語: Python
-- インフラ/クラウド: AWS (CodePipeline, etc..)
+- インフラ/クラウド: AWS (CodePipeline, Lambda, etc..)
 - IaC: Cloudformation, Serverless Framework
 - その他: IoT, CI/CD
 </details>

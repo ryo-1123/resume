@@ -100,7 +100,7 @@ PM1名, バックエンドエンジニア2名, インフラエンジニア1名
 ​
 ##### **使用技術**
 - 開発言語: Python
-- クラウドプラットフォーム: AWS(Lambda, RDS, SQS, etc..)
+- クラウドプラットフォーム: AWS(Lambda, RDS, S3, etc..)
 - インフラ管理: CloudFormation, SAM 
 - その他: Gitlab CI
 </details>
